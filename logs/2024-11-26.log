@@ -1,0 +1,26 @@
+{"level":30,"time":1732597071830,"pid":16621,"hostname":"praveen","msg":"Server is running on port 3000"}
+{"level":30,"time":1732597081286,"pid":16621,"hostname":"praveen","msg":"I am in warn box."}
+{"level":40,"time":1732597081286,"pid":16621,"hostname":"praveen","msg":"Warning: This is a warning message"}
+{"level":30,"time":1732597086672,"pid":16621,"hostname":"praveen","msg":"I am in info box."}
+{"level":30,"time":1732597086672,"pid":16621,"hostname":"praveen","msg":"Info: This is an informational message"}
+{"level":30,"time":1732597243714,"pid":17171,"hostname":"praveen","msg":"Server is running on port 3000"}
+{"level":30,"time":1732597259151,"pid":17235,"hostname":"praveen","msg":"Server is running on port 3000"}
+{"level":30,"time":1732597264866,"pid":17276,"hostname":"praveen","msg":"Server is running on port 3000"}
+{"level":30,"time":1732597287272,"pid":17376,"hostname":"praveen","msg":"Server is running on port 3000"}
+{"level":30,"time":1732597295690,"pid":17417,"hostname":"praveen","msg":"Server is running on port 3000"}
+{"level":30,"time":1732597300530,"pid":17439,"hostname":"praveen","msg":"Server is running on port 3000"}
+{"level":30,"time":1732597305494,"pid":17495,"hostname":"praveen","msg":"Server is running on port 3000"}
+{"level":30,"time":1732597311137,"pid":17495,"hostname":"praveen","msg":"I am in info box."}
+{"level":30,"time":1732597311140,"pid":17495,"hostname":"praveen","msg":"Info: This is an informational message"}
+{"level":30,"time":1732597331611,"pid":17583,"hostname":"praveen","msg":"Server is running on port 3000"}
+{"level":30,"time":1732597336306,"pid":17651,"hostname":"praveen","msg":"Server is running on port 3000"}
+{"level":30,"time":1732597338175,"pid":17651,"hostname":"praveen","msg":"I am in info box."}
+{"level":30,"time":1732597338178,"pid":17651,"hostname":"praveen","a":"add","b":"adsd","d":"ascs","e":"acs","f":"ac","fg":"ca","ax":"ac"}
+{"level":30,"time":1732597338179,"pid":17651,"hostname":"praveen","msg":"Info: This is an informational message"}
+{"level":30,"time":1732597352403,"pid":17692,"hostname":"praveen","msg":"Server is running on port 3000"}
+{"level":30,"time":1732598526868,"pid":23383,"hostname":"praveen","msg":"Server is running on port 3000"}
+{"level":30,"time":1732598535891,"pid":23482,"hostname":"praveen","msg":"Server is running on port 3000"}
+{"level":50,"time":1732598542754,"pid":23482,"hostname":"praveen","msg":"ReferenceError: myobject is not defined\n    at /home/praveen/Desktop/Vinfotech/Fanizm/NodePinoLogs/server.js:42:38\n    at Layer.handle [as handle_request] (/home/praveen/Desktop/Vinfotech/Fanizm/NodePinoLogs/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/praveen/Desktop/Vinfotech/Fanizm/NodePinoLogs/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/home/praveen/Desktop/Vinfotech/Fanizm/NodePinoLogs/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/home/praveen/Desktop/Vinfotech/Fanizm/NodePinoLogs/node_modules/express/lib/router/layer.js:95:5)\n    at /home/praveen/Desktop/Vinfotech/Fanizm/NodePinoLogs/node_modules/express/lib/router/index.js:284:15\n    at Function.process_params (/home/praveen/Desktop/Vinfotech/Fanizm/NodePinoLogs/node_modules/express/lib/router/index.js:346:12)\n    at next (/home/praveen/Desktop/Vinfotech/Fanizm/NodePinoLogs/node_modules/express/lib/router/index.js:280:10)\n    at expressInit (/home/praveen/Desktop/Vinfotech/Fanizm/NodePinoLogs/node_modules/express/lib/middleware/init.js:40:5)\n    at Layer.handle [as handle_request] (/home/praveen/Desktop/Vinfotech/Fanizm/NodePinoLogs/node_modules/express/lib/router/layer.js:95:5)"}
+{"level":30,"time":1732598554111,"pid":23543,"hostname":"praveen","msg":"Server is running on port 3000"}
+{"level":30,"time":1732598629022,"pid":24081,"hostname":"praveen","msg":"Server is running on port 3000"}
+{"level":30,"time":1732598649410,"pid":24249,"hostname":"praveen","msg":"Server is running on port 3000"}
